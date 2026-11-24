@@ -8,22 +8,21 @@ Proyek ini adalah fondasi model class untuk aplikasi Character Manager berbasis 
 
 ## Struktur Folder
 
-```text
 CharacterManager/
 │
 ├── src/
-│   └── com/
-│       └── unpri/
-│           └── charactermanager/
-│               └── model/
-│                   ├── Character.java
-│                   ├── CharacterType.ja
-│                   └── Main.java
+│   ├── com/
+│   │   └── unpri/
+│   │       └── charactermanager/
+│   │           └── model/
+│   │               ├── Character.java
+│   │               ├── CharacterType.java
+│   │               └── CharacterManager.java  ← BARU
+│   │
+│   └── Main.java
 │
-├── Output.png
+├── output.png
 └── README.md
-```
-
 ## Identitas
 
 Nama: RUTH TASYA YULINA PURBA
@@ -32,4 +31,4 @@ NIM: 253303621297
 
 Analisis Bagian D (Google Docs):
 
-https://docs.google.com/document/d/1n1iWXvjS69btfDjY8wnOWKaa3cUN-DuY43qSbVYNmS4/edit?usp=sharing
+https://docs.google.com/document/d/1nk1_mLB7BtxtiGZqiJBj_VycbR3BOmEn9piUMbmSM3w/edit?usp=sharing
