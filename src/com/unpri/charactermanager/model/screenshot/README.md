@@ -17,7 +17,7 @@ CharacterManager/
 │           └── charactermanager/
 │               └── model/
 │                   ├── Character.java
-│                   ├── CharacterType.java
+│                   ├── CharacterType.ja
 │                   └── Main.java
 │
 ├── Output.png
